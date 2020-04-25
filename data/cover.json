@@ -1,0 +1,10 @@
+{
+	"title" : "i`m Dion Madyasta",
+	"description" : "Network Engineer | DevOps Engineer",
+	"illustration" : "freelancing.svg",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Contact",
+		"href" : "#contact"
+	}
+}
