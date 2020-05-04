@@ -1,36 +1,18 @@
 {
-  "title" : "Team",
-  "description" : "Little team description here",
+  "title" : "Follow Me !",
+  "description" : " Stay connect with me through my social media",
   "members" : [
     {
-      "name" : "Sarita",
-      "description" : "CEO",
-      "avatar" : "sarita.jpeg",
+      "name" : "Dion Madyasta",
+      "description" : "",
+      "avatar" : "dion3.jpg",
       "social" : {
-        "facebook" : "https://facebook.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "linkedin" : "https://linkedin.com/add/damn"
+        "facebook" : "https://facebook.com/dionysius.razr",
+        "instagram" : "https://instagram.com/dion.madyasta",
+        "linkedin" : "https://www.linkedin.com/in/dionmadyasta/",
+        "dribbble" : "https://portalgo.id"
       }
-    },
-    {
-      "name" : "Veronica",
-      "description" : "Graphics Designer",
-      "avatar" : "veronica.jpeg",
-      "social" : {
-        "twitter" : "https://twitter.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "dribbble" : "https://dribbble.com/add/damn"
-      }
-    },
-    {
-      "name" : "John",
-      "description" : "Graphics Designer",
-      "avatar" : "john.jpeg",
-      "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
-      }
+      
     }
   ]
 }

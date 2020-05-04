@@ -1,32 +1,47 @@
 {
-  "title" : "Pricing",
+  "title" : "Portfolio",
   "description" : "Pricing subtitle",
   "content" : [
     {
-      "title" : "Starter",
-      "price" : "$30",
+      "title" : "Blog Documentation",
+      "price" : "",
       "features" : [
-        "No setup, monthly, or hidden fees",
-        "Pay only for what you use",
-        "Real-time fee reporting"
+        "Feature x",
+        "Feature x",
+        "Feature x",
+        "Feature x"
       ],
       "button" : {
-        "text" : "Contact",
-        "href" : "/#contact"
+        "text" : "portalgo.id",
+        "href" : "https://portalgo.id/"
       }
     },
     {
-      "title" : "Advance",
-      "price" : "$90",
+      "title" : "Video Documentation",
+      "price" : "",
       "features" : [
-        "All features of Starter Pack",
-        "Feature number 2",
+        "Feature x",
+        "Feature x",
         "Feature 3",
         "feature 4"
       ],
       "button" : {
-        "text" : "Contact",
-        "href" : "/#contact"
+        "text" : "Youtube",
+        "href" : "https://www.youtube.com/channel/UCxaKyuNi4VtuFggDD99mwmg"
+      }
+    },
+    {
+      "title" : "Code",
+      "price" : "",
+      "features" : [
+        "Feature x",
+        "Feature x",
+        "Feature 3",
+        "feature 4"
+      ],
+      "button" : {
+        "text" : "Github",
+        "href" : "https://github.com/dionmadyasta"
       }
     }
   ]
