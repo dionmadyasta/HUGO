@@ -3,7 +3,7 @@
   "description" : "Here are all my Documents",
   "content" : [
     {
-      "title" : "Blog Documentation",
+      "title" : "Blog Documentations",
       "price" : "",
       "features" : [
         "Feature x",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "title" : "Video Documentation",
+      "title" : "Video Documentations",
       "price" : "",
       "features" : [
         "Feature x",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "title" : "Code Documentation",
+      "title" : "Code Documentations",
       "price" : "",
       "features" : [
         "Feature x",
