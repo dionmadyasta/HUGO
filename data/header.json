@@ -11,20 +11,16 @@
       "href" : "#features"
     },
     {
-      "title" : "Pricing",
+      "title" : "Docs",
       "href" : "#pricing"
     },
     {
-      "title" : "Contact",
-      "href" : "#contact"
-    },
-    {
-      "title" : "Team",
+      "title" : "Follow Me!",
       "href" : "#team"
     },
     {
-      "title" : "Clients",
-      "href" : "#clients"
+      "title" : "Team",
+      "href" : "#contact"
     }
   ]
 }
