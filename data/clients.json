@@ -4,15 +4,27 @@
   "clients" : [
     {
       "title" : "Produthunt",
-      "image" : "producthunt.png"
+      "image" : "aws.png"
     },
     {
       "title" : "Google",
-      "image" : "google.png"
+      "image" : "docker.png"
     },
     {
       "title" : "Facebook",
-      "image" : "facebook.png"
+      "image" : "kubernetes.png"
+    },
+    {
+      "title" : "Facebook",
+      "image" : "ansible.png"
+    },
+    {
+      "title" : "Facebook",
+      "image" : "terraform.png"
+    },
+    {
+      "title" : "Facebook",
+      "image" : "git.png"
     }
   ]
 }
