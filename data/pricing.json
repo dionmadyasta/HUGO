@@ -5,12 +5,7 @@
     {
       "title" : "Blog Documentations",
       "price" : "",
-      "features" : [
-        "Feature x",
-        "Feature x",
-        "Feature x",
-        "Feature x"
-      ],
+      "features" : [],
       "button" : {
         "text" : "Portalgo.id",
         "href" : "https://portalgo.id/"
@@ -19,12 +14,7 @@
     {
       "title" : "Video Documentations",
       "price" : "",
-      "features" : [
-        "Feature x",
-        "Feature x",
-        "Feature 3",
-        "feature 4"
-      ],
+      "features" : [],
       "button" : {
         "text" : "YouTube",
         "href" : "https://www.youtube.com/channel/UCxaKyuNi4VtuFggDD99mwmg"
@@ -33,12 +23,7 @@
     {
       "title" : "Code Documentations",
       "price" : "",
-      "features" : [
-        "Feature x",
-        "Feature x",
-        "Feature 3",
-        "feature 4"
-      ],
+      "features" : [],
       "button" : {
         "text" : "Github",
         "href" : "https://github.com/dionmadyasta"
