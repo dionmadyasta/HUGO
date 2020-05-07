@@ -26,12 +26,12 @@
         "feature 4"
       ],
       "button" : {
-        "text" : "Youtube",
+        "text" : "YouTube",
         "href" : "https://www.youtube.com/channel/UCxaKyuNi4VtuFggDD99mwmg"
       }
     },
     {
-      "title" : "Code",
+      "title" : "Code Documentation",
       "price" : "",
       "features" : [
         "Feature x",
