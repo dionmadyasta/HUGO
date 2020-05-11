@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://confident-fermi-3af56e.netlify.app"
+baseURL = "https://examplesite.com"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
