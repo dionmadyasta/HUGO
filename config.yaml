@@ -32,9 +32,6 @@ sitemap:
   priority: 0.5
 menu:
   main:
-  - url: https://madyasta.com
-    name: test
-    weight: 6
   - url: "/about/"
     name: About
     title: About
