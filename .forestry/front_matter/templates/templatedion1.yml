@@ -26,3 +26,5 @@ fields:
 - type: list
   name: aliases
   label: aliases
+pages:
+- content/posts/test-my-first-post.md
