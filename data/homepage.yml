@@ -16,7 +16,7 @@ showcase:
   # <a href='https://pngtree.com/so/book'>book png from pngtree.com</a>
   imageMobile:
     alt: ""
-    x: ""
+    x: "img/showcase/smallkucing.png"
 
   button:
     icon: "icon-profile-fill"
