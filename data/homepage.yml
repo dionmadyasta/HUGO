@@ -58,8 +58,8 @@ about:
     btnText: "Contact"
     URL: "mailto:dion.madyasta@gmail.com"
   image:
-    x: "img/who-am-i/dionmadyasta.png"
-    _2x: "img/who-am-i/dionmadyasta.png"
+    x: "img/who-am-i/dionmadyasta2.png"
+    _2x: "img/who-am-i/dionmadyasta2.png"
 
 # education
 education:
