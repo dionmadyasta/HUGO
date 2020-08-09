@@ -11,8 +11,8 @@ showcase:
   # Spent 5 years developing the skills to increase velocity, reliability, and quality for IT with a high focus on DevOps Circle
   image:
     alt: ""
-    x: "img/showcase/kocheng2.png"
-    _2x: "img/showcase/kocheng2.png"
+    x: "img/showcase/smallkucing.png"
+    _2x: "img/showcase/smallkucing.png"
   # <a href='https://pngtree.com/so/book'>book png from pngtree.com</a>
   imageMobile:
     alt: ""
@@ -58,8 +58,8 @@ about:
     btnText: "Contact"
     URL: "mailto:dion.madyasta@gmail.com"
   image:
-    x: "img/who-am-i/dionmadyasta2.png"
-    _2x: "img/who-am-i/dionmadyasta2.png"
+    x: "img/who-am-i/small.png"
+    _2x: "img/who-am-i/small.png"
 
 # education
 education:
