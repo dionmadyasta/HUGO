@@ -109,7 +109,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: ""
+  title: "Tools"
   enable: true
 
   clients:
@@ -194,7 +194,7 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "Reach Out to me!"
   form:
     method: "POST"
     action: "#"
@@ -203,7 +203,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Google Mail"
-    number: "dion.madyasta@gmail.com"
+    number: ""
   email:
     title: "Email"
     email: '<a href="mailto:dion@madyasta.com">dion@madyasta.com</a>'
