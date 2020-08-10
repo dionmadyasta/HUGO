@@ -114,35 +114,51 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/aws.png"
+        _2x: "img/clients/aws.png"
+      alt: "aws"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/gcp.png"
+        _2x: "img/clients/gcp.png"
+      alt: "gcp"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/linux.png"
+        _2x: "img/clients/linux.png"
+      alt: "linux"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/mikrotik.png"
+        _2x: "img/clients/mikrotik.png"
+      alt: "mikrotik"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/ansible.png"
+        _2x: "img/clients/ansible.png"
+      alt: "ansible"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
+        x: "img/clients/docker.png"
+        _2x: "img/clients/docker.png"
+      alt: "docker"
+
+    - logo:
+        x: "img/clients/kubernetes.png"
+        _2x: "img/clients/kubernetes.png"
+      alt: "kubernetes"
+
+    - logo:
+        x: "img/clients/jenkins.png"
+        _2x: "img/clients/jenkins.png"
+      alt: "jenkins"
+
+    - logo:
+        x: "img/clients/linux.png"
+        _2x: "img/clients/linux.png"
       alt: "Ztos"
 
+                  
   works:
     - title: "Portalgo.id"
       description: "With love for developing cool stuff, I love to write and teach others what I have learnt.."
