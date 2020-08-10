@@ -134,11 +134,6 @@ client_and_work:
       alt: "mikrotik"
 
     - logo:
-        x: "img/clients/ansible.png"
-        _2x: "img/clients/ansible.png"
-      alt: "ansible"
-
-    - logo:
         x: "img/clients/docker.png"
         _2x: "img/clients/docker.png"
       alt: "docker"
@@ -149,16 +144,15 @@ client_and_work:
       alt: "kubernetes"
 
     - logo:
+        x: "img/clients/ansible.png"
+        _2x: "img/clients/ansible.png"
+      alt: "ansible"
+
+    - logo:
         x: "img/clients/jenkins.png"
         _2x: "img/clients/jenkins.png"
       alt: "jenkins"
-
-    - logo:
-        x: "img/clients/linux.png"
-        _2x: "img/clients/linux.png"
-      alt: "Ztos"
-
-                  
+                
   works:
     - title: "Portalgo.id"
       description: "With love for developing cool stuff, I love to write and teach others what I have learnt.."
