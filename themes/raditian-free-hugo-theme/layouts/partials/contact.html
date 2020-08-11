@@ -1,0 +1,52 @@
+{{ if .Site.Data.homepage.contact.enable }}
+<section id="contact" class="section section--contact pt-0">
+    <div class="container">
+        <div class="contact">
+            <h2>{{ .Site.Data.homepage.contact.title }}</h2>
+            <div class="row pt-2">
+                <div class="col-12 col-lg-7">
+                    <form action="{{ .Site.Data.homepage.contact.form.action }}" method="{{ .Site.Data.homepage.contact.form.method }}">
+
+                        <div class="row pt-4">
+                            <div class="col-12">
+                              <!-- text1-->
+                                    <font size="4" color="#343a40">Discuss a project or just want to say hi? My inbox is open for all 😃</font><br>
+                                    <p>Open for opportunities: Yes!</p>
+                            
+       <!-- social icon-->
+
+        <div class="sosi">
+          <div class="sosico">  
+            {{ range .Site.Data.homepage.showcase.socialLinks }}
+            <a href="{{ .URL | absURL }}" target="_blank">
+                <i class="icon-{{ .icon }}-line" style="color:black"></i></a>            
+            {{ end }}
+          </div>
+        </div>
+
+        <!-- end of social icon--> 
+
+                            </div>
+                        </div>
+                    </form>
+                </div> 
+                <div class="col-12 col-lg-5 contact__info">
+                    <!-- gmail svg--> 
+                    <img src="img/general/gmail32px.png" alt="gmail">
+                    <h4>{{ .Site.Data.homepage.contact.phone.title }}</h4>
+                    <span><p><a href="mailto:dion.madyasta@gmail.com">dion.madyasta@gmail.com</a></p></span>
+                    <img src="img/general/email32px.png" alt="email">
+                    <h4>{{ .Site.Data.homepage.contact.email.title }}</h4>
+                    <span><p><a href="mailto:dion@madyasta.com">dion@madyasta.com</a></p>
+
+               <!-- <span>{{ .Site.Data.homepage.contact.email.email | safeHTML }}</span> 
+               --> 
+                    <img src="img/general/pin32px.png" alt="pin">
+                    <h4>{{ .Site.Data.homepage.contact.address.title }}</h4>
+                    <span>{{ .Site.Data.homepage.contact.address.address | safeHTML }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
